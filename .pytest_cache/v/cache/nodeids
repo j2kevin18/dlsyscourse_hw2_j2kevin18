@@ -1,0 +1,20 @@
+[
+  "tests/test_data.py::submit_flip_horizontal",
+  "tests/test_data.py::submit_random_crop",
+  "tests/test_data.py::submit_mnist_dataset",
+  "tests/test_data.py::submit_dataloader",
+  "tests/test_nn_and_optim.py::submit_op_logsumexp",
+  "tests/test_nn_and_optim.py::submit_init",
+  "tests/test_nn_and_optim.py::submit_nn_linear",
+  "tests/test_nn_and_optim.py::submit_nn_relu",
+  "tests/test_nn_and_optim.py::submit_nn_sequential",
+  "tests/test_nn_and_optim.py::submit_nn_softmax_loss",
+  "tests/test_nn_and_optim.py::submit_nn_layernorm",
+  "tests/test_nn_and_optim.py::submit_nn_batchnorm",
+  "tests/test_nn_and_optim.py::submit_nn_dropout",
+  "tests/test_nn_and_optim.py::submit_nn_residual",
+  "tests/test_nn_and_optim.py::submit_nn_flatten",
+  "tests/test_nn_and_optim.py::submit_optim_sgd",
+  "tests/test_nn_and_optim.py::submit_optim_adam",
+  "tests/test_nn_and_optim.py::submit_mlp_resnet"
+]

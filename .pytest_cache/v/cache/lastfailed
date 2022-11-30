@@ -1,0 +1,19 @@
+{
+  "tests/test_nn_and_optim.py::test_check_prng_contact_us_if_this_fails_1": true,
+  "tests/test_nn_and_optim.py::test_nn_flatten_backward_1": true,
+  "tests/test_nn_and_optim.py::test_nn_flatten_backward_2": true,
+  "tests/test_nn_and_optim.py::test_nn_flatten_backward_3": true,
+  "tests/test_nn_and_optim.py::test_nn_flatten_backward_4": true,
+  "tests/test_nn_and_optim.py::test_nn_flatten_backward_5": true,
+  "tests/test_nn_and_optim.py::test_nn_flatten_forward_1": true,
+  "tests/test_nn_and_optim.py::test_nn_flatten_forward_2": true,
+  "tests/test_nn_and_optim.py::test_nn_flatten_forward_3": true,
+  "tests/test_nn_and_optim.py::test_nn_flatten_forward_4": true,
+  "tests/test_nn_and_optim.py::test_nn_relu_backward_1": true,
+  "tests/test_nn_and_optim.py::test_nn_relu_forward_1": true,
+  "tests/test_nn_and_optim.py::test_nn_sequential_backward_1": true,
+  "tests/test_nn_and_optim.py::test_nn_sequential_forward_1": true,
+  "tests/test_nn_and_optim.py::test_op_power_scalar_backward_1": true,
+  "tests/test_nn_and_optim.py::test_op_power_scalar_forward_1": true,
+  "tests/test_nn_and_optim.py::test_op_power_scalar_forward_2": true
+}
